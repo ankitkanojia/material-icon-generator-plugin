@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<icons default="alert/add_alert">
+ <option id="alert/add_alert">alert/add_alert</option>
+ <option id="alert/error">alert/error</option>
+ <option id="alert/error_outline">alert/error_outline</option>
+ <option id="alert/notification_important">alert/notification_important</option>
+ <option id="alert/warning">alert/warning</option>
+ <option id="toggle/check_box">toggle/check_box</option>
+ <option id="toggle/check_box_outline_blank">toggle/check_box_outline_blank</option>
+ <option id="toggle/indeterminate_check_box">toggle/indeterminate_check_box</option>
+ <option id="toggle/radio_button_checked">toggle/radio_button_checked</option>
+ <option id="toggle/radio_button_unchecked">toggle/radio_button_unchecked</option>
+ <option id="toggle/star">toggle/star</option>
+ <option id="toggle/star_border">toggle/star_border</option>
+ <option id="toggle/star_half">toggle/star_half</option>
+ <option id="toggle/toggle_off">toggle/toggle_off</option>
+ <option id="toggle/toggle_on">toggle/toggle_on</option>
+</icons>
